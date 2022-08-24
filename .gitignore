@@ -3,4 +3,4 @@
 ################################################################################
 
 /ConsoleApp1/.vs/ConsoleApp1/v16/Server/sqlite3
-/genericbuild/vars/*
+/genericbuild/vars/genericbuild.groovy
