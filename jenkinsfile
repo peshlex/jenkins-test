@@ -1,4 +1,4 @@
-genericbuild()
+genericbuild(target:"ConsoleApp1")
 // node {
 //     stage('SCM') {
 //     	echo 'Gathering code from version control'
